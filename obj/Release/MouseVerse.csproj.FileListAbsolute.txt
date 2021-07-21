@@ -1,0 +1,7 @@
+D:\GTF-DesConnet\Мои проекты\MouseVerse\bin\Release\MouseVerse.exe.config
+D:\GTF-DesConnet\Мои проекты\MouseVerse\bin\Release\MouseVerse.exe
+D:\GTF-DesConnet\Мои проекты\MouseVerse\bin\Release\MouseVerse.pdb
+D:\GTF-DesConnet\Мои проекты\MouseVerse\obj\Release\MouseVerse.csproj.CoreCompileInputs.cache
+D:\GTF-DesConnet\Мои проекты\MouseVerse\obj\Release\MouseVerse.exe
+D:\GTF-DesConnet\Мои проекты\MouseVerse\obj\Release\MouseVerse.pdb
+D:\GTF-DesConnet\Мои проекты\MouseVerse\obj\Release\MouseVerse.csprojAssemblyReference.cache
